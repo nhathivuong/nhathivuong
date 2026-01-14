@@ -1,4 +1,12 @@
 ## Hi there 👋
+I am Nha-Thi, a web developer. I enjoy creating dynamic, user-friendly websites and applications that are both functional and visually engaging.
+
+### 🌱 My Skills
+
+Frontend: React.js, HTML, CSS, Styled components, Tailwind CSS\
+Backend: Javascript, MongoDB, Node.js, Express.js, JWT, Bcrypt\
+Tools and Methods: Git, GitHub, Vercel, Render, Canva, Figma, AWS\
+Currently learning: Python, React Native, Angular, SQL, Typescript, n8n
 
 <!--
 **nhathivuong/nhathivuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
