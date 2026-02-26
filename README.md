@@ -7,7 +7,7 @@ Frontend: React.js, HTML, CSS, Styled components, Tailwind CSS\
 Backend: Javascript, MongoDB, Node.js, Express.js, JWT, Bcrypt\
 Languages: Javascript, Typescript\
 Tools and Methods: Git, GitHub, Vercel, Render, Canva, Figma, AWS\
-Currently learning: Python, React Native, Angular, SQL,  n8n\
+Currently learning: Python, React Native, Angular, SQL,  n8n
 
 <!--
 **nhathivuong/nhathivuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
