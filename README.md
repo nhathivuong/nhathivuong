@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Nha-Thi, a web developer. I enjoy creating dynamic, user-friendly websites and applications that are both functional and visually engaging.
+I am Nha-Thi, a web developer. I enjoy creating websites and applications that are both functional and visually engaging.
 
 ### 🌱 My Skills
 
